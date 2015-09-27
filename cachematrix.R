@@ -1,4 +1,4 @@
-## The functions below are used to cache the inverse of a matrix, provided that the matrix, x, 
+## The functions below are used to cache the inverse of a matrix provided that the matrix, x, 
 ## that is initially supplied in the function is an invertible matrix.
 
 ##Similar to the "makeVector" function displayed in the example, the "makeCacheMatrix"
